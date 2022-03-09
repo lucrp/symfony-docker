@@ -1,5 +1,7 @@
 # Symfony Docker
 
+Forked from [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) to serve as a base Symfony installation for study. Currently watching the [FreeCodeCamp Symfony tutorial](https://www.youtube.com/watch?v=Bo0guUbL5uo&t=29s) made by [OverSeas Media](https://www.youtube.com/channel/UCPsBHZLaXkZ_mmapD8vBLXg).
+
 A [Docker](https://www.docker.com/)-based installer and runtime for the [Symfony](https://symfony.com) web framework, with full [HTTP/2](https://symfony.com/doc/current/weblink.html), HTTP/3 and HTTPS support.
 
 ![CI](https://github.com/dunglas/symfony-docker/workflows/CI/badge.svg)
